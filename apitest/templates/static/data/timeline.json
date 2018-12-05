@@ -1,0 +1,20 @@
+{
+  "hosts" : [ {
+    "title" : "QFdeMacBook-Pro.local",
+    "threads" : [ {
+      "title" : "25041-MainThread",
+      "testCases" : [ {
+        "uid" : "cef25d223e8c06ef",
+        "name" : "test_answer",
+        "title" : "Test answer",
+        "time" : {
+          "start" : 1543196380875,
+          "stop" : 1543196380877,
+          "duration" : 2
+        },
+        "severity" : "NORMAL",
+        "status" : "PASSED"
+      } ]
+    } ]
+  } ]
+}
